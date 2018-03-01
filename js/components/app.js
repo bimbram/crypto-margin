@@ -439,7 +439,7 @@ var Layout = function (_Component) {
             _react2.default.createElement(
               'div',
               { className: 'logo', onClick: this.goBack },
-              'Crypto Profits'
+              'Crypto Profits Calculator 4 Binar'
             ),
             _react2.default.createElement(
               'nav',
